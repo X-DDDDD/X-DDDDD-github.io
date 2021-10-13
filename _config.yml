@@ -1,1 +1,10 @@
 theme: jekyll-theme-slate
+# Site settings
+title: whatever it takes                     #你博客的标题
+SEOTitle: whatever it takes | whatever it takes        #显示在浏览器上搜索的时候显示的标题
+# header-img: img/post-bg-rwd.jpg     #显示在首页的背景图片
+email: 1336143736@qq.com    
+description: "一份伏特加，加一点青柠，姜汁，啤酒，最重要的是，还有一点爱"              #网站介绍
+keyword: "RL" #关键词
+url: "https://X-DDDDD.github.io"          # 这个就是填写你的博客地址
+baseurl: ""      # 这个我们不用填写
