@@ -9,3 +9,8 @@ keyword: "RL" #关键词
 url: "https://X-DDDDD.github.io"          # 这个就是填写你的博客地址
 baseurl: ""      # 这个我们不用填写
 github_repo: "https://github.com/X-DDDDD/X-DDDDD.github.io.git" # you code repository
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "一份伏特加，加一点青柠，姜汁，啤酒，最重要的是，还有一点爱"
+sidebar-avatar: /img/naive_child.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
